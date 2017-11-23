@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.notearena.jaxbService;
+package com.notearena.singleelement.jaxbService;
 
 /**
  *
  * @author Kayum-603
  */
-import com.notearena.model.Student;
+import com.notearena.singleelement.model.Student;
 import java.io.File;
 
 import javax.xml.bind.JAXBContext;

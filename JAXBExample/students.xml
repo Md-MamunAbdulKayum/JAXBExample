@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Students id="1">
+    <std-name>Mamun</std-name>
+    <age>25</age>
+    <gender>Male</gender>
+    <college>K.B College, Mymensingh, Bangladesh</college>
+</Students>

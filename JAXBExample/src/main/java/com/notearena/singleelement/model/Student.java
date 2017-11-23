@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.notearena.model;
+package com.notearena.singleelement.model;
 
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;
@@ -78,12 +78,11 @@ public class Student {
     public void setPassword(String password) {
         this.password = password;
     }
-
+ 
     @Override
     public String toString() {
         return "id=" + id + ", gender=" + gender + ", age=" + age + ", name=" + name + ", college=" + college + ", password=" + password;
     }
-    
     
     
 }
